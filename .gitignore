@@ -1,0 +1,12 @@
+target/
+.settings/
+.externalToolBuilders/
+*.project
+*.classpath
+/src/main/webapp/public
+/src/main/webapp/app/global
+/src/main/webapp/bower_components
+/src/main/webapp/rev-css
+/src/main/webapp/rev-js
+/src/main/webapp/.idea
+
